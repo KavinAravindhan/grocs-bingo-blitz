@@ -1,0 +1,7 @@
+<!-- Replace this placeholder with your club logo SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#1e9bd6" stroke-width="4"/>
+  <text x="100" y="110" font-family="Arial" font-size="48" font-weight="bold" text-anchor="middle" fill="#1e9bd6">CLUB</text>
+  <text x="100" y="140" font-family="Arial" font-size="24" text-anchor="middle" fill="#666">LOGO</text>
+</svg>
+
